@@ -1,0 +1,11 @@
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+xgboost>=2.0
+tensorflow>=2.16
+yfinance>=0.2
+matplotlib>=3.8
+pyarrow>=16.0
+statsmodels>=0.14
+tqdm>=4.66
+shap>=0.45
